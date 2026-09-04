@@ -1,11 +1,13 @@
 about:
-  description: A 5-20x faster experimental Homebrew alternative
+  description:
+  |
+    A 5-20x faster experimental Homebrew alternative
   license: Apache-2.0
   homepage: 
   head: c278256
   archived: false
   latestVersion: v0.3.2
-  collectedAt: 2026-09-04T05:02:26Z
+  collectedAt: 2026-09-04T20:01:53Z
 timeline:
   created: 2026-01-19
   lastCommit: 2026-09-02
@@ -16,7 +18,7 @@ popularity:
   fork: 177
   release: 7
   contributor: 32
-  pullRequest: 95
+  pullRequest: 251
   issue: 151
 language:
   Rust: 746910
@@ -26,7 +28,7 @@ language:
   CSS: 13102
   Nunjucks: 5664
   JavaScript: 3183
-totalLine: 833089
+totalBytes: 833089
 recent:
   last30d:
     since: 2026-08-05
@@ -36,6 +38,14 @@ recent:
     closedIssue: 0
     openIssue: 5
     commit: 1
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 1
+    openPR: 3
+    closedIssue: 0
+    openIssue: 6
+    commit: 4
   last90d:
     since: 2026-06-06
     release: 1
@@ -60,3 +70,21 @@ recent:
     closedIssue: 107
     openIssue: 44
     commit: 377
+  last720d:
+    since: 2024-09-14
+    release: 7
+    mergedPR: 156
+    openPR: 3
+    closedIssue: 107
+    openIssue: 44
+    commit: 395
+total:
+  release: 7
+  mergedPR: 156
+  openPR: 3
+  closedIssue: 107
+  openIssue: 44
+  commit: 395
+---
+---
+
