@@ -7,7 +7,7 @@ about:
   head: c278256
   archived: false
   latestVersion: v0.3.2
-  collectedAt: 2026-09-04T20:01:53Z
+  collectedAt: 2026-09-04T20:38:36Z
 timeline:
   created: 2026-01-19
   lastCommit: 2026-09-02
@@ -86,5 +86,63 @@ total:
   openIssue: 44
   commit: 395
 ---
+path: /home/runner/.x-repo/github.com/lucasgelfond/zerobrew
+collectedAt: 2026-09-04T20:38:37Z
+loc:
+  Rust:
+    code: 19105
+    comments: 336
+    blanks: 2997
+    files: 78
+  Yaml:
+    code: 1455
+    comments: 0
+    blanks: 445
+    files: 1
+  Css:
+    code: 632
+    comments: 1
+    blanks: 101
+    files: 9
+  Ruby:
+    code: 543
+    comments: 11
+    blanks: 96
+    files: 1
+  Sh:
+    code: 500
+    comments: 40
+    blanks: 100
+    files: 2
+  Json:
+    code: 158
+    comments: 0
+    blanks: 0
+    files: 8
+  Toml:
+    code: 120
+    comments: 2
+    blanks: 15
+    files: 5
+  JavaScript:
+    code: 96
+    comments: 1
+    blanks: 21
+    files: 2
+  Svg:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 3
+  Markdown:
+    code: 0
+    comments: 672
+    blanks: 232
+    files: 8
+total:
+  code: 22670
+  comments: 1270
+  blanks: 4021
+  files: 117
 ---
 
