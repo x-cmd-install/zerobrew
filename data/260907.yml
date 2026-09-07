@@ -5,7 +5,7 @@ about:
   head: c278256
   archived: false
   latestVersion: "v0.3.2"
-  collectedAt: 2026-09-07T05:04:15Z
+  collectedAt: 2026-09-07T19:22:00Z
 timeline:
   created: 2026-01-19
   lastCommit: 2026-09-02
@@ -85,7 +85,7 @@ total:
   commit: 395
 ---
 path: /home/runner/.x-repo/github.com/lucasgelfond/zerobrew
-collectedAt: 2026-09-07T05:04:17Z
+collectedAt: 2026-09-07T19:22:01Z
 loc:
   Rust:
     code: 19105
@@ -146,7 +146,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:04:18+00:00
+  collectedAt: 2026-09-07T19:22:01+00:00
   platform:
     darwin/arm64:
       name:  zb-darwin-arm64
