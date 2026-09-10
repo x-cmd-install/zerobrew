@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.2"
   latestRelease: "v0.3.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:31:13Z
+  collectedAt: 2026-09-10T17:01:51Z
 timeline:
   created: 2026-01-19
   lastCommit: 2026-09-02
@@ -89,7 +89,7 @@ total:
   commit: 395
 ---
 path: /home/runner/.x-repo/github.com/lucasgelfond/zerobrew
-collectedAt: 2026-09-10T05:31:14Z
+collectedAt: 2026-09-10T17:01:52Z
 loc:
   Rust:
     code: 19105
