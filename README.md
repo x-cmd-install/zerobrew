@@ -22,7 +22,20 @@ x install zerobrew
 - **Latest**: `v0.3.2` (2026-06-12)
 - **Last commit**: 2026-09-02
 - **Assets in release**: 9
-- **Published**: 2026-06-12T02:47:25Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [SHA256SUMS](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/SHA256SUMS) | 648 B | `other` |
+| [zb-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zb-darwin-arm64) | 8.8 MiB | `native/darwin/arm64` |
+| [zb-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zb-darwin-x64) | 10.5 MiB | `native/darwin/x64` |
+| [zb-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zb-linux-arm64) | 9.6 MiB | `native/linux/arm64` |
+| [zb-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zb-linux-x64) | 11.5 MiB | `other` |
+| [zbx-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
+| [zbx-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zbx-darwin-x64) | 321.9 KiB | `native/darwin/x64` |
+| [zbx-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
+| [zbx-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zbx-linux-x64) | 335.5 KiB | `other` |
 
 ## Popularity
 
@@ -57,8 +70,8 @@ Total: **22,617** lines of code across **91** files in the top 5 languages.
 Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zerobrew` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/zerobrew.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/zerobrew.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:31:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:01:58Z._
