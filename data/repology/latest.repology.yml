@@ -1,0 +1,39 @@
+- repo: aur
+  srcname: zerobrew
+  binname: zerobrew
+  visiblename: zerobrew
+  version: 0.3.2
+  origversion: 0.3.2-1
+  status: unique
+  summary: A drop-in, 5-20x faster, experimental Homebrew alternative.
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: aur
+  srcname: zerobrew-bin
+  binname: zerobrew-bin
+  visiblename: zerobrew-bin
+  version: 0.3.2
+  origversion: 0.3.2-2
+  status: unique
+  summary: A drop-in, 5-20x faster, experimental Homebrew alternative
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: aur
+  srcname: zerobrew-git
+  binname: zerobrew-git
+  visiblename: zerobrew-git
+  version: r109.31b8d83
+  origversion: r109.31b8d83-1
+  status: rolling
+  summary: A drop-in, 5-20x faster, experimental Homebrew alternative
+  maintainers:
+    - maria_rcks@aur
+  licenses:
+    - Apache-2.0
+    - MIT
