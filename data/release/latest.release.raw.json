@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 648,
       "digest": "sha256:1ed9ec989f64a762465dab72a06e5bf158980014235f891c8a20f6e7ab014341",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2026-06-12T02:47:24Z",
       "updated_at": "2026-06-12T02:47:24Z",
       "browser_download_url": "https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/SHA256SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9213968,
       "digest": "sha256:61f7e5475bc50269c18aa45a599e8bfeedfef59740745cc7dacb50f71b61d75b",
-      "download_count": 937,
+      "download_count": 942,
       "created_at": "2026-06-12T02:47:24Z",
       "updated_at": "2026-06-12T02:47:24Z",
       "browser_download_url": "https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zb-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11035836,
       "digest": "sha256:b2da64aa05bd7817705839ee9f5899b0eab1554167455ccb850e8510aa43b413",
-      "download_count": 189,
+      "download_count": 191,
       "created_at": "2026-06-12T02:47:24Z",
       "updated_at": "2026-06-12T02:47:24Z",
       "browser_download_url": "https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zb-darwin-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12088664,
       "digest": "sha256:d0a3be29054e5f47ef69aea1bce6338997159c3d3d2a37884fd31d51a5b48c4e",
-      "download_count": 543,
+      "download_count": 547,
       "created_at": "2026-06-12T02:47:24Z",
       "updated_at": "2026-06-12T02:47:25Z",
       "browser_download_url": "https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zb-linux-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 336400,
       "digest": "sha256:35b8890e41f7a727e5e09834001122d25d8b0c77727b0a0cbd6d5064147cd62c",
-      "download_count": 811,
+      "download_count": 816,
       "created_at": "2026-06-12T02:47:24Z",
       "updated_at": "2026-06-12T02:47:24Z",
       "browser_download_url": "https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zbx-darwin-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 329592,
       "digest": "sha256:7e8208192e74eb621f49daed251bbf54c9ae89bda6bfd9bd325214455b73c8d0",
-      "download_count": 156,
+      "download_count": 158,
       "created_at": "2026-06-12T02:47:24Z",
       "updated_at": "2026-06-12T02:47:24Z",
       "browser_download_url": "https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zbx-darwin-x64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 343552,
       "digest": "sha256:bd709cf565f0761906ad7126d85cc23cb565cafc8034e4f4145fcebdc0c3bd8c",
-      "download_count": 472,
+      "download_count": 473,
       "created_at": "2026-06-12T02:47:24Z",
       "updated_at": "2026-06-12T02:47:24Z",
       "browser_download_url": "https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zbx-linux-x64"
