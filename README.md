@@ -47,12 +47,12 @@ Total: **22,617** lines of code across **91** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 3 | 1 | 3 | 1 |
-| last60d | 2026-07-12 | 0 | 1 | 3 | 1 | 5 | 4 |
-| 90d | 2026-06-12 | 1 | 1 | 3 | 2 | 7 | 4 |
-| last180d | 2026-03-14 | 5 | 33 | 3 | 13 | 25 | 60 |
-| 360d | 2025-09-15 | 7 | 156 | 3 | 108 | 43 | 377 |
-| last720d | 2024-09-20 | 7 | 156 | 3 | 108 | 43 | 395 |
+| 30d | 2026-08-12 | 0 | 0 | 3 | 1 | 3 | 1 |
+| last60d | 2026-07-13 | 0 | 1 | 3 | 1 | 5 | 4 |
+| 90d | 2026-06-13 | 0 | 1 | 3 | 2 | 7 | 4 |
+| last180d | 2026-03-15 | 4 | 29 | 3 | 12 | 25 | 60 |
+| 360d | 2025-09-16 | 7 | 156 | 3 | 108 | 43 | 377 |
+| last720d | 2024-09-21 | 7 | 156 | 3 | 108 | 43 | 395 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:22:04Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:11:57Z._
