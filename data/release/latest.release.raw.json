@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12088664,
       "digest": "sha256:d0a3be29054e5f47ef69aea1bce6338997159c3d3d2a37884fd31d51a5b48c4e",
-      "download_count": 547,
+      "download_count": 548,
       "created_at": "2026-06-12T02:47:24Z",
       "updated_at": "2026-06-12T02:47:25Z",
       "browser_download_url": "https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.2/zb-linux-x64"
