@@ -4,7 +4,7 @@
 
 A 5-20x faster experimental Homebrew alternative
 
-![zerobrew](https://repo.x-cmd.io/zerobrew.svg)
+[![x-cmd/install — zerobrew Code Quality Monitoring Repo Card](https://repo.x-cmd.io/zerobrew.svg)](https://x-cmd.com/install/zerobrew)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **22,617** lines of code across **91** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,538 · **Forks**: 180 · **Open issues**: 152 · **Contributors**: 32
+- **Stars**: 7,540 · **Forks**: 181 · **Open issues**: 152 · **Contributors**: 32
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 156 · **Open PRs**: 3 · **Closed issues**: 108 · **Open issues**: 44 · **Commits**: 395
+- **Releases**: 7 · **Merged PRs**: 156 · **Open PRs**: 4 · **Closed issues**: 108 · **Open issues**: 44 · **Commits**: 395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 1 | 4 | 1 |
-| last60d | 2026-07-20 | 0 | 1 | 3 | 1 | 6 | 4 |
-| 90d | 2026-06-20 | 0 | 1 | 3 | 2 | 6 | 4 |
-| last180d | 2026-03-22 | 3 | 23 | 3 | 12 | 25 | 50 |
-| 360d | 2025-09-23 | 7 | 156 | 3 | 108 | 44 | 377 |
-| last720d | 2024-09-28 | 7 | 156 | 3 | 108 | 44 | 395 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 4 | 1 |
+| last60d | 2026-07-22 | 0 | 1 | 4 | 1 | 6 | 4 |
+| 90d | 2026-06-22 | 0 | 1 | 4 | 2 | 6 | 4 |
+| last180d | 2026-03-24 | 3 | 20 | 4 | 11 | 24 | 50 |
+| 360d | 2025-09-25 | 7 | 156 | 4 | 108 | 44 | 377 |
+| last720d | 2024-09-30 | 7 | 156 | 4 | 108 | 44 | 395 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:21:00Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:25:01Z._
