@@ -4,7 +4,7 @@
 
 A 5-20x faster experimental Homebrew alternative
 
-[![x-cmd/install — zerobrew Code Quality Monitoring Repo Card](https://repo.x-cmd.io/zerobrew.svg)](https://x-cmd.com/install/zerobrew)
+[![x-cmd/install — zerobrew Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/zerobrew.svg)](https://x-cmd.com/install/zerobrew)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **22,617** lines of code across **91** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 4 | 1 |
-| last60d | 2026-07-24 | 0 | 0 | 4 | 1 | 6 | 1 |
-| 90d | 2026-06-24 | 0 | 1 | 4 | 2 | 6 | 4 |
-| last180d | 2026-03-26 | 3 | 20 | 4 | 11 | 24 | 49 |
-| 360d | 2025-09-27 | 7 | 156 | 4 | 108 | 44 | 377 |
-| last720d | 2024-10-02 | 7 | 156 | 4 | 108 | 44 | 395 |
+| 30d | 2026-08-24 | 0 | 0 | 4 | 0 | 4 | 1 |
+| last60d | 2026-07-25 | 0 | 0 | 4 | 1 | 6 | 1 |
+| 90d | 2026-06-25 | 0 | 1 | 4 | 2 | 6 | 4 |
+| last180d | 2026-03-27 | 3 | 20 | 4 | 11 | 24 | 49 |
+| 360d | 2025-09-28 | 7 | 156 | 4 | 108 | 44 | 377 |
+| last720d | 2024-10-03 | 7 | 156 | 4 | 108 | 44 | 395 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:26:15Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:38:52Z._
