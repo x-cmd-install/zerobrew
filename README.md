@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-A 5-20x faster experimental Homebrew alternative
+An up to 100x faster Homebrew alternative
 
 [![x-cmd/install — zerobrew Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/zerobrew.svg)](https://x-cmd.com/install/zerobrew)
 
@@ -14,11 +14,11 @@ x install zerobrew
 
 ## Code insight
 
-Total: **24,744** lines of code across **96** files in the top 5 languages.
+Total: **26,411** lines of code across **96** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,219 | 350 | 3,203 | 83 |
+| Rust | 22,882 | 375 | 3,190 | 83 |
 | Yaml | 1,455 | 0 | 445 | 1 |
 | Css | 632 | 1 | 101 | 9 |
 | Ruby | 543 | 11 | 96 | 1 |
@@ -32,27 +32,27 @@ Total: **24,744** lines of code across **96** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.5` (2026-09-30)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 7,545 · **Forks**: 181 · **Open issues**: 162 · **Contributors**: 33
+- **Stars**: 7,548 · **Forks**: 181 · **Open issues**: 162 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 168 · **Open PRs**: 0 · **Closed issues**: 124 · **Open issues**: 38 · **Commits**: 442
+- **Releases**: 10 · **Merged PRs**: 175 · **Open PRs**: 0 · **Closed issues**: 124 · **Open issues**: 38 · **Commits**: 465
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-08 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-09 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-11 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-16 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-07 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-09 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-10 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-12 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-17 | 10 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:50:36Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:23:09Z._
