@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-An up to 100x faster Homebrew alternative
+An up to 100x* faster Homebrew alternative
 
 [![x-cmd/install — zerobrew Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/zerobrew.svg?lang=zh)](https://x-cmd.com/install/zerobrew)
 
@@ -14,11 +14,11 @@ x install zerobrew
 
 ## 代码洞察
 
-合计: **26,411** 行代码（覆盖前 5 种语言、共 **96** 个文件）。
+合计: **26,466** 行代码（覆盖前 5 种语言、共 **96** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 22,882 | 375 | 3,190 | 83 |
+| Rust | 22,935 | 372 | 3,198 | 83 |
 | Yaml | 1,455 | 0 | 445 | 1 |
 | Css | 632 | 1 | 101 | 9 |
 | Ruby | 543 | 11 | 96 | 1 |
@@ -31,42 +31,42 @@ x install zerobrew
 
 ## 发布
 
-- **最新版本**: `v0.3.5` (2026-09-30)
-- **最近提交**: 2026-10-07
+- **最新版本**: `v0.4.0` (2026-10-08)
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 7,548 · **Fork**: 181 · **开放 issue**: 162 · **贡献者**: 33
+- **Star**: 7,628 · **Fork**: 181 · **开放 issue**: 162 · **贡献者**: 33
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 175 · **开放 PR**: 0 · **已关闭 issue**: 124 · **开放 issue**: 38 · **提交数**: 465
+- **发布数**: 11 · **已合并 PR**: 180 · **开放 PR**: 0 · **已关闭 issue**: 124 · **开放 issue**: 38 · **提交数**: 479
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [SHA256SUMS](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/SHA256SUMS) | 648 B | `other` |
-| [zb-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/zb-darwin-arm64) | 8.8 MiB | `native/darwin/arm64` |
-| [zb-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/zb-darwin-x64) | 10.6 MiB | `native/darwin/x64` |
-| [zb-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/zb-linux-arm64) | 9.6 MiB | `native/linux/arm64` |
-| [zb-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/zb-linux-x64) | 11.6 MiB | `other` |
-| [zbx-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
-| [zbx-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/zbx-darwin-x64) | 322.1 KiB | `native/darwin/x64` |
-| [zbx-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
-| [zbx-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.3.5/zbx-linux-x64) | 335.8 KiB | `other` |
+| [SHA256SUMS](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/SHA256SUMS) | 648 B | `other` |
+| [zb-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zb-darwin-arm64) | 8.8 MiB | `native/darwin/arm64` |
+| [zb-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zb-darwin-x64) | 10.6 MiB | `native/darwin/x64` |
+| [zb-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zb-linux-arm64) | 9.7 MiB | `native/linux/arm64` |
+| [zb-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zb-linux-x64) | 11.6 MiB | `other` |
+| [zbx-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
+| [zbx-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zbx-darwin-x64) | 322.1 KiB | `native/darwin/x64` |
+| [zbx-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
+| [zbx-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zbx-linux-x64) | 335.8 KiB | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ zerobrew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:23:10Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:31:03Z._
