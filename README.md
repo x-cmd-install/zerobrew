@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-An up to 100x* faster Homebrew alternative
+An up to 6.6x faster Homebrew client
 
 [![x-cmd/install — zerobrew Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/zerobrew.svg)](https://x-cmd.com/install/zerobrew)
 
@@ -37,22 +37,22 @@ Total: **26,466** lines of code across **96** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,628 · **Forks**: 181 · **Open issues**: 162 · **Contributors**: 33
+- **Stars**: 8,098 · **Forks**: 187 · **Open issues**: 167 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 180 · **Open PRs**: 0 · **Closed issues**: 124 · **Open issues**: 38 · **Commits**: 479
+- **Releases**: 11 · **Merged PRs**: 180 · **Open PRs**: 0 · **Closed issues**: 124 · **Open issues**: 43 · **Commits**: 481
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-13 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-18 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-10 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-12 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-13 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-15 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-20 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:31:03Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:12:41Z._
