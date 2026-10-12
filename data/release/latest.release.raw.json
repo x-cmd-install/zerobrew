@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 648,
       "digest": "sha256:40e7948a564a9f19ae3fd8d846de35ea81f3c6b64280be9709b23343506c82c9",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-10-08T02:47:33Z",
       "updated_at": "2026-10-08T02:47:33Z",
       "browser_download_url": "https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.0/SHA256SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9232064,
       "digest": "sha256:33cdbc0013bab82b540c7df619d8dc151fe72c94225e657231a17ac5a81fdca4",
-      "download_count": 697,
+      "download_count": 779,
       "created_at": "2026-10-08T02:47:33Z",
       "updated_at": "2026-10-08T02:47:34Z",
       "browser_download_url": "https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.0/zb-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11104692,
       "digest": "sha256:08389c0a15501cfbf9471e14bbfe34b28a54443c169d68dc4226954009f8c1fb",
-      "download_count": 100,
+      "download_count": 114,
       "created_at": "2026-10-08T02:47:33Z",
       "updated_at": "2026-10-08T02:47:34Z",
       "browser_download_url": "https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.0/zb-darwin-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12205240,
       "digest": "sha256:845277fa4597f0475cdf0cf1ac01cec54e79c20374d1b5757b284448e101362f",
-      "download_count": 110,
+      "download_count": 125,
       "created_at": "2026-10-08T02:47:33Z",
       "updated_at": "2026-10-08T02:47:34Z",
       "browser_download_url": "https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.0/zb-linux-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 336400,
       "digest": "sha256:24c451883a8a29d4146884376a4eb36d7c4669385d1ac4a27132158df9fd8123",
-      "download_count": 646,
+      "download_count": 714,
       "created_at": "2026-10-08T02:47:33Z",
       "updated_at": "2026-10-08T02:47:33Z",
       "browser_download_url": "https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.0/zbx-darwin-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 329840,
       "digest": "sha256:1841861cbf5bc2c35499c11da2c59f61364281e0b61cdb857c31e4d05251550c",
-      "download_count": 81,
+      "download_count": 94,
       "created_at": "2026-10-08T02:47:33Z",
       "updated_at": "2026-10-08T02:47:33Z",
       "browser_download_url": "https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.0/zbx-darwin-x64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 343856,
       "digest": "sha256:280f26ba6f315299b61963e3dc29ab715ff9ef5ca1c20cba1ab68ffc06bd5153",
-      "download_count": 79,
+      "download_count": 91,
       "created_at": "2026-10-08T02:47:33Z",
       "updated_at": "2026-10-08T02:47:33Z",
       "browser_download_url": "https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.0/zbx-linux-x64"
