@@ -31,42 +31,46 @@ x install zerobrew
 
 ## 发布
 
-- **最新版本**: `v0.4.0+dev` (2026-10-08)
-- **最近提交**: 2026-10-14
-- **Release 含资产**: 9 个
+- **最新版本**: `v0.4.1` (2026-10-15)
+- **最近提交**: 2026-10-15
+- **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 8,193 · **Fork**: 191 · **开放 issue**: 174 · **贡献者**: 33
+- **Star**: 8,196 · **Fork**: 191 · **开放 issue**: 177 · **贡献者**: 33
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 192 · **开放 PR**: 0 · **已关闭 issue**: 146 · **开放 issue**: 28 · **提交数**: 515
+- **发布数**: 13 · **已合并 PR**: 194 · **开放 PR**: 3 · **已关闭 issue**: 147 · **开放 issue**: 30 · **提交数**: 517
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-17 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-18 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-20 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-25 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-16 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-17 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-18 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-19 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-21 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-26 | 13 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [SHA256SUMS](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/SHA256SUMS) | 648 B | `other` |
-| [zb-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zb-darwin-arm64) | 8.8 MiB | `native/darwin/arm64` |
-| [zb-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zb-darwin-x64) | 10.6 MiB | `native/darwin/x64` |
-| [zb-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zb-linux-arm64) | 9.7 MiB | `native/linux/arm64` |
-| [zb-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zb-linux-x64) | 11.6 MiB | `other` |
-| [zbx-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
-| [zbx-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zbx-darwin-x64) | 322.1 KiB | `native/darwin/x64` |
-| [zbx-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
-| [zbx-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.0/zbx-linux-x64) | 335.8 KiB | `other` |
+| [SHA256SUMS](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/SHA256SUMS) | 990 B | `other` |
+| [zb-brew-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-brew-darwin-arm64) | 587.1 KiB | `native/darwin/arm64` |
+| [zb-brew-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-brew-darwin-x64) | 674.9 KiB | `native/darwin/x64` |
+| [zb-brew-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-brew-linux-arm64) | 588.6 KiB | `native/linux/arm64` |
+| [zb-brew-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-brew-linux-x64) | 699.2 KiB | `other` |
+| [zb-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-darwin-arm64) | 9.2 MiB | `native/darwin/arm64` |
+| [zb-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-darwin-x64) | 11.1 MiB | `native/darwin/x64` |
+| [zb-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-linux-arm64) | 10.1 MiB | `native/linux/arm64` |
+| [zb-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-linux-x64) | 12.1 MiB | `other` |
+| [zbx-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
+| [zbx-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zbx-darwin-x64) | 322.1 KiB | `native/darwin/x64` |
+| [zbx-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
+| [zbx-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zbx-linux-x64) | 335.5 KiB | `other` |
 
 ## 改进这些数据
 
@@ -77,4 +81,4 @@ zerobrew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261015.yml` · 2026-10-15T05:08:27Z._
+_数据快照: `data/card/261016.yml` · 2026-10-16T05:07:07Z._
