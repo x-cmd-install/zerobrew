@@ -14,15 +14,15 @@ x install zerobrew
 
 ## Code insight
 
-Total: **31,696** lines of code across **109** files in the top 5 languages.
+Total: **33,565** lines of code across **115** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 28,094 | 414 | 3,572 | 95 |
+| Rust | 29,680 | 455 | 3,686 | 99 |
 | Yaml | 1,455 | 0 | 445 | 1 |
+| Sh | 770 | 63 | 127 | 5 |
 | Css | 632 | 1 | 101 | 9 |
-| Ruby | 556 | 15 | 97 | 1 |
-| Sh | 555 | 43 | 106 | 3 |
+| Ruby | 619 | 24 | 105 | 1 |
 
 ## Source
 
@@ -31,46 +31,46 @@ Total: **31,696** lines of code across **109** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.4.1` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Latest**: `v0.4.2` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 8,209 · **Forks**: 191 · **Open issues**: 178 · **Contributors**: 33
+- **Stars**: 8,206 · **Forks**: 192 · **Open issues**: 180 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 194 · **Open PRs**: 3 · **Closed issues**: 147 · **Open issues**: 31 · **Commits**: 517
+- **Releases**: 14 · **Merged PRs**: 200 · **Open PRs**: 1 · **Closed issues**: 148 · **Open issues**: 32 · **Commits**: 546
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-25 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-27 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-01 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [SHA256SUMS](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/SHA256SUMS) | 990 B | `other` |
-| [zb-brew-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-brew-darwin-arm64) | 587.1 KiB | `native/darwin/arm64` |
-| [zb-brew-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-brew-darwin-x64) | 674.9 KiB | `native/darwin/x64` |
-| [zb-brew-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-brew-linux-arm64) | 588.6 KiB | `native/linux/arm64` |
-| [zb-brew-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-brew-linux-x64) | 699.2 KiB | `other` |
-| [zb-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-darwin-arm64) | 9.2 MiB | `native/darwin/arm64` |
-| [zb-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-darwin-x64) | 11.1 MiB | `native/darwin/x64` |
-| [zb-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-linux-arm64) | 10.1 MiB | `native/linux/arm64` |
-| [zb-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zb-linux-x64) | 12.1 MiB | `other` |
-| [zbx-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
-| [zbx-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zbx-darwin-x64) | 322.1 KiB | `native/darwin/x64` |
-| [zbx-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
-| [zbx-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.1/zbx-linux-x64) | 335.5 KiB | `other` |
+| [SHA256SUMS](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/SHA256SUMS) | 990 B | `other` |
+| [zb-brew-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-brew-darwin-arm64) | 587.1 KiB | `native/darwin/arm64` |
+| [zb-brew-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-brew-darwin-x64) | 674.9 KiB | `native/darwin/x64` |
+| [zb-brew-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-brew-linux-arm64) | 588.6 KiB | `native/linux/arm64` |
+| [zb-brew-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-brew-linux-x64) | 699.2 KiB | `other` |
+| [zb-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-darwin-arm64) | 9.4 MiB | `native/darwin/arm64` |
+| [zb-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-darwin-x64) | 11.3 MiB | `native/darwin/x64` |
+| [zb-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-linux-arm64) | 10.2 MiB | `native/linux/arm64` |
+| [zb-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-linux-x64) | 12.3 MiB | `other` |
+| [zbx-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
+| [zbx-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zbx-darwin-x64) | 322.1 KiB | `native/darwin/x64` |
+| [zbx-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
+| [zbx-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zbx-linux-x64) | 335.5 KiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:13:23Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:13:45Z._
