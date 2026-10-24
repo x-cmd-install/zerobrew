@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-An up to 5x faster Homebrew client
+An up to 10x faster Homebrew client
 
 [![x-cmd/install — zerobrew Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/zerobrew.svg)](https://x-cmd.com/install/zerobrew)
 
@@ -14,7 +14,7 @@ x install zerobrew
 
 ## Code insight
 
-Total: **33,662** lines of code across **116** files in the top 5 languages.
+Total: **33,664** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -37,22 +37,22 @@ Total: **33,662** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,209 · **Forks**: 193 · **Open issues**: 180 · **Contributors**: 36
+- **Stars**: 8,212 · **Forks**: 193 · **Open issues**: 180 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 202 · **Open PRs**: 1 · **Closed issues**: 149 · **Open issues**: 31 · **Commits**: 548
+- **Releases**: 14 · **Merged PRs**: 202 · **Open PRs**: 1 · **Closed issues**: 149 · **Open issues**: 31 · **Commits**: 549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:10:59Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:57:13Z._
