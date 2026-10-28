@@ -2,9 +2,9 @@
   srcname: zerobrew
   binname: zerobrew
   visiblename: zerobrew
-  version: 0.4.0
-  origversion: 0.4.0-1
-  status: outdated
+  version: 0.4.2
+  origversion: 0.4.2-1
+  status: unique
   summary: A drop-in, 5-20x faster, experimental Homebrew alternative.
   maintainers:
     - anelgarhy@aur
