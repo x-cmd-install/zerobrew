@@ -37,22 +37,22 @@ Total: **33,719** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,218 · **Forks**: 196 · **Open issues**: 181 · **Contributors**: 37
+- **Stars**: 8,219 · **Forks**: 196 · **Open issues**: 185 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 203 · **Open PRs**: 2 · **Closed issues**: 150 · **Open issues**: 31 · **Commits**: 552
+- **Releases**: 14 · **Merged PRs**: 205 · **Open PRs**: 2 · **Closed issues**: 150 · **Open issues**: 35 · **Commits**: 554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-30 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-01 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-06 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-28 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-29 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-30 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-01 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-02 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-07 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:30:46Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:16:15Z._
