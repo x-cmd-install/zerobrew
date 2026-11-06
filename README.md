@@ -14,11 +14,11 @@ x install zerobrew
 
 ## Code insight
 
-Total: **34,446** lines of code across **117** files in the top 5 languages.
+Total: **34,518** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 30,524 | 471 | 3,768 | 101 |
+| Rust | 30,596 | 471 | 3,771 | 101 |
 | Yaml | 1,455 | 0 | 445 | 1 |
 | Sh | 796 | 64 | 136 | 5 |
 | Css | 632 | 1 | 101 | 9 |
@@ -32,27 +32,27 @@ Total: **34,446** lines of code across **117** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.2` (2026-10-21)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 8,246 · **Forks**: 198 · **Open issues**: 186 · **Contributors**: 38
+- **Stars**: 8,254 · **Forks**: 198 · **Open issues**: 186 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 208 · **Open PRs**: 2 · **Closed issues**: 151 · **Open issues**: 35 · **Commits**: 560
+- **Releases**: 14 · **Merged PRs**: 209 · **Open PRs**: 1 · **Closed issues**: 152 · **Open issues**: 34 · **Commits**: 562
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-15 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-07 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-16 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:12:35Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:13:22Z._
