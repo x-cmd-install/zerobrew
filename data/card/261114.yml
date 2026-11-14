@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.2"
   latestRelease: "v0.4.2"
   latestPrerelease: "v0.4.0+dev"
-  collectedAt: 2026-11-14T02:58:42Z
+  collectedAt: 2026-11-14T07:19:42Z
 timeline:
   created: 2026-01-19
   lastCommit: 2026-11-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-10-21
   lastPrerelease: 2026-10-12
 popularity:
-  star: 8267
+  star: 8268
   watcher: 14
   fork: 201
   release: 14
@@ -89,7 +89,7 @@ total:
   commit: 562
 ---
 path: /home/runner/.x-repo/github.com/zerobrewhq/zerobrew
-collectedAt: 2026-11-14T02:58:43Z
+collectedAt: 2026-11-14T07:19:43Z
 loc:
   Rust:
     code: 30596
