@@ -26,7 +26,7 @@ Total: **34,518** lines of code across **117** files in the top 5 languages.
 
 ## Source
 
-- **Upstream**: <https://github.com/lucasgelfond/zerobrew>
+- **Upstream**: <https://github.com/zerobrewhq/zerobrew>
 - **License**: Apache-2.0
 
 ## Release
@@ -37,7 +37,7 @@ Total: **34,518** lines of code across **117** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,266 · **Forks**: 201 · **Open issues**: 187 · **Contributors**: 39
+- **Stars**: 8,267 · **Forks**: 201 · **Open issues**: 187 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -47,30 +47,30 @@ Total: **34,518** lines of code across **117** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-15 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-17 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-18 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-23 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-15 | 2 | 12 | 4 | 3 | 7 | 25 |
+| last60d | 2026-09-15 | 7 | 50 | 4 | 18 | 17 | 164 |
+| 90d | 2026-08-16 | 7 | 52 | 4 | 21 | 19 | 168 |
+| last180d | 2026-05-18 | 10 | 68 | 4 | 32 | 24 | 211 |
+| 360d | 2025-11-19 | 14 | 208 | 4 | 152 | 35 | 544 |
+| last720d | 2024-11-24 | 14 | 208 | 4 | 152 | 35 | 562 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [SHA256SUMS](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/SHA256SUMS) | 990 B | `other` |
-| [zb-brew-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-brew-darwin-arm64) | 587.1 KiB | `native/darwin/arm64` |
-| [zb-brew-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-brew-darwin-x64) | 674.9 KiB | `native/darwin/x64` |
-| [zb-brew-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-brew-linux-arm64) | 588.6 KiB | `native/linux/arm64` |
-| [zb-brew-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-brew-linux-x64) | 699.2 KiB | `other` |
-| [zb-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-darwin-arm64) | 9.4 MiB | `native/darwin/arm64` |
-| [zb-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-darwin-x64) | 11.3 MiB | `native/darwin/x64` |
-| [zb-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-linux-arm64) | 10.2 MiB | `native/linux/arm64` |
-| [zb-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zb-linux-x64) | 12.3 MiB | `other` |
-| [zbx-darwin-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
-| [zbx-darwin-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zbx-darwin-x64) | 322.1 KiB | `native/darwin/x64` |
-| [zbx-linux-arm64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
-| [zbx-linux-x64](https://github.com/lucasgelfond/zerobrew/releases/download/v0.4.2/zbx-linux-x64) | 335.5 KiB | `other` |
+| [SHA256SUMS](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/SHA256SUMS) | 990 B | `other` |
+| [zb-brew-darwin-arm64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zb-brew-darwin-arm64) | 587.1 KiB | `native/darwin/arm64` |
+| [zb-brew-darwin-x64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zb-brew-darwin-x64) | 674.9 KiB | `native/darwin/x64` |
+| [zb-brew-linux-arm64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zb-brew-linux-arm64) | 588.6 KiB | `native/linux/arm64` |
+| [zb-brew-linux-x64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zb-brew-linux-x64) | 699.2 KiB | `other` |
+| [zb-darwin-arm64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zb-darwin-arm64) | 9.4 MiB | `native/darwin/arm64` |
+| [zb-darwin-x64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zb-darwin-x64) | 11.3 MiB | `native/darwin/x64` |
+| [zb-linux-arm64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zb-linux-arm64) | 10.2 MiB | `native/linux/arm64` |
+| [zb-linux-x64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zb-linux-x64) | 12.3 MiB | `other` |
+| [zbx-darwin-arm64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zbx-darwin-arm64) | 328.5 KiB | `native/darwin/arm64` |
+| [zbx-darwin-x64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zbx-darwin-x64) | 322.1 KiB | `native/darwin/x64` |
+| [zbx-linux-arm64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zbx-linux-arm64) | 304.6 KiB | `native/linux/arm64` |
+| [zbx-linux-x64](https://github.com/zerobrewhq/zerobrew/releases/download/v0.4.2/zbx-linux-x64) | 335.5 KiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:30:59Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T02:58:48Z._
