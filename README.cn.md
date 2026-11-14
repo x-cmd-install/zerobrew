@@ -37,7 +37,7 @@ x install zerobrew
 
 ## 流行度
 
-- **Star**: 8,267 · **Fork**: 201 · **开放 issue**: 187 · **贡献者**: 39
+- **Star**: 8,268 · **Fork**: 201 · **开放 issue**: 187 · **贡献者**: 39
 
 ## 累计统计
 
@@ -81,4 +81,4 @@ zerobrew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261114.yml` · 2026-11-14T02:58:49Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T07:19:51Z._

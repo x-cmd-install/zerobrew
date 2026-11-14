@@ -37,7 +37,7 @@ Total: **34,518** lines of code across **117** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,267 · **Forks**: 201 · **Open issues**: 187 · **Contributors**: 39
+- **Stars**: 8,268 · **Forks**: 201 · **Open issues**: 187 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -81,4 +81,4 @@ Install metadata for zerobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T02:58:48Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:19:50Z._
